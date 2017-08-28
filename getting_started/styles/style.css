@@ -12,3 +12,9 @@ body {
 button {
   padding: 10px 10px 10px 0;
 }
+
+.output {
+  width: 800px;
+  height: 300px;
+  overflow: auto;
+}
