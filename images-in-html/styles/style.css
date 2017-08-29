@@ -1,0 +1,15 @@
+body {
+  font-family: 'Open Sans Light',Helvetica,Arial,sans-serif;
+}
+
+.input, .output {
+  width: 90%;
+  height: 90%;
+  padding: 10px;
+  border: 1px solid #0095dd;
+  overflow: auto;
+}
+
+button {
+  padding: 10px 10px 10px 0;
+}
